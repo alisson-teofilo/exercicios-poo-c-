@@ -1,0 +1,14 @@
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\bin\Debug\net8.0\Exercicios-poo.exe
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\bin\Debug\net8.0\Exercicios-poo.deps.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\bin\Debug\net8.0\Exercicios-poo.runtimeconfig.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\bin\Debug\net8.0\Exercicios-poo.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\bin\Debug\net8.0\Exercicios-poo.pdb
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.AssemblyInfo.cs
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\refint\Exercicios-poo.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.pdb
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\Exercicios-poo.genruntimeconfig.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Exercicios-poo\Exercicios-poo\obj\Debug\net8.0\ref\Exercicios-poo.dll

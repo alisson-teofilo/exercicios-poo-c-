@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\academia gis\\programa\u00E7\u00E3o orientada a objeto\\.net\\exercicios-poo\\exercicios-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|solutionrelative:exercicios-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\academia gis\\programa\u00E7\u00E3o orientada a objeto\\.net\\exercicios-poo\\exercicios-poo\\criatividade\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|solutionrelative:exercicios-poo\\criatividade\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\academia gis\\programa\u00E7\u00E3o orientada a objeto\\.net\\exercicios-poo\\exercicios-poo\\criatividade\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|solutionrelative:exercicios-poo\\criatividade\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\academia gis\\programa\u00E7\u00E3o orientada a objeto\\.net\\exercicios-poo\\exercicios-poo\\criatividade\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626B2B55-37A4-42A3-9745-DFC8AAFC581B}|Exercicios-poo\\Exercicios-poo.csproj|solutionrelative:exercicios-poo\\criatividade\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios-poo\\Program.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Program.cs",
+              "RelativeToolTip": "Exercicios-poo\\Program.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwHAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:09:42.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Criatividade\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicios-poo\\Criatividade\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Criatividade\\Funcionario.cs",
+              "RelativeToolTip": "Exercicios-poo\\Criatividade\\Funcionario.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:09:45.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Criatividade\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Exercicios-poo\\Criatividade\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Criatividade\\Vendedor.cs",
+              "RelativeToolTip": "Exercicios-poo\\Criatividade\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:09:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Criatividade\\Gerente.cs",
+              "RelativeDocumentMoniker": "Exercicios-poo\\Criatividade\\Gerente.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\Academia GIS\\Programa\u00E7\u00E3o Orientada a Objeto\\.NET\\Exercicios-poo\\Exercicios-poo\\Criatividade\\Gerente.cs",
+              "RelativeToolTip": "Exercicios-poo\\Criatividade\\Gerente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:09:44.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
